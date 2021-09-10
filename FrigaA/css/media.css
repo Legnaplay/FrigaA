@@ -1,0 +1,28 @@
+@media screen and (max-width: 800px) {
+    .nav {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .nav {
+        width: 100%;
+    }
+
+    .nav-list {
+        display: none;
+    }
+
+    span.material-icons-outlined {
+        display: block;
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 35px;
+    }
+
+    .image {
+        max-height: 400px;
+    }
+
+}
