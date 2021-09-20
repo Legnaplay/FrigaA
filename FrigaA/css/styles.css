@@ -5,6 +5,10 @@
     justify-content: center;
 }
 
+.vh {
+    height: 100vh;
+}
+
 .nav {
     background: var(--color-principal);
     width: 80%;
@@ -48,6 +52,7 @@ span.material-icons-outlined {
     text-align: center;
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .main h1 {
@@ -78,7 +83,6 @@ span.material-icons-outlined {
 
 .map-link {
     width: 80%;
-    height: 78vh;
 }
 
 .about {
@@ -87,7 +91,6 @@ span.material-icons-outlined {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    margin-top: 20px;
 }
 
 .about p {
@@ -99,7 +102,7 @@ span.material-icons-outlined {
     display: flex;
     justify-content: center;
     font-size: 30px;
-    margin: 0 0 0 0;
+    margin: 25px 0 10px 0;
 }
 
 .image {
@@ -110,7 +113,7 @@ span.material-icons-outlined {
 
 .img {
     width: 80%;
+    height: auto;
     display: flex;
     justify-content: center;
 }
-

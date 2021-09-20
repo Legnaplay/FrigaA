@@ -33,39 +33,20 @@
 </head>
 <body>
     <div class="responsive">
-            <div class="vh">
-                <header class="header">
+    <header class="header">
                     <nav class="nav">
                         <a class="logo" href="index.html">FrigaA</a>
                                 <span class="material-icons-outlined">
                                     menu
                                     </span>
-                                <ul class="nav-list">
-                                    <li class="nav-items"><a class="nav-links" href="index.html">Inicio</a></li>
-                                    <li class="nav-items"><a class="nav-links" href="nosotros.html">Nosotros</a></li>
-                                    <li class="nav-items"><a class="nav-links" href="servicios.html">Servicios</a></li>
-                                    <li class="nav-items"><a class="nav-links" href="contacto.php">Contacto</a></li>
-                                 </ul>
+                            <ul class="nav-list">
+                                <li class="nav-items"><a class="nav-links" href="index.html">Inicio</a></li>
+                                <li class="nav-items"><a class="nav-links" href="nosotros.html">Nosotros</a></li>
+                                <li class="nav-items"><a class="nav-links" href="servicios.html">Servicios</a></li>
+                                <li class="nav-items"><a class="nav-links" href="#">Contacto</a></li>
+                            </ul>
                     </nav>
                 </header>
-                <main id="home" class="main">
-                    <h1>¡Ponte al día con las mejores ofertas!</h1>
-                </main>
-                <section class="section">
-                    <p>En FrigaA Soluciones encuentra las mejores ofertas y descuentos al realizar tus compras. Encuentra productos al mejor precio <br>
-                        visitanos en nuestra sucursal en Reynosa Tamps.
-                    </p>
-                </section>
-                <div class="map">
-                    <div  class="map-cont">
-                        <iframe class="map-link" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!
-                        1d3584.0097150671754!2d-98.32410328460757!3d26.065938902301593!2m3!1f0!2f0!3f0!3m2!1i
-                        1024!2i768!4f13.1!3m3!1m2!1s0x86650529b089e6fd%3A0xfaa82aea0da359a8!2sFrigaa%20Soluciones!5
-                        e0!3m2!1ses-419!2smx!4v1631381290493!5m2!1ses-419!2smx" width="800" height="600px" style="border:0;"
-                        allowfullscreen="" loading="lazy"></iframe>
-                    </div>
-                </div>
-            </div>
     </div>
 </body>
 </html>
